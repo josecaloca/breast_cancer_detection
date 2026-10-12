@@ -1,0 +1,9 @@
+# Breast Cancer Detection
+
+Python Boilerplate contains all the boilerplate you need to create a Python package.
+
+## Getting started
+
+- [Installation](installation.md) - how to install Breast Cancer Detection
+- [Usage](usage.md) - how to use Breast Cancer Detection
+- [API Reference](api.md) - auto-generated API documentation
